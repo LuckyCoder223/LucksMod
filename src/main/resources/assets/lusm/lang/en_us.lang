@@ -1,0 +1,24 @@
+tile.obsidian_ore.name=Obsidian Ore
+tile.lucks_block.name=Lucks Block
+tile.obsidian_furnace.name=Obsidian Furnace
+
+container.obsidian_furnace.name=Obsidian Furnace
+
+item.obsidian_nugget.name=Obsidian Nugget
+item.obsidian_ingot.name=Obsidian Ingot
+
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_shovel.name=Obsidian Shovel
+item.obsidian_hoe.name=Obsidian Hoe
+item.obsidian_bow.name=Obsidian Bow
+
+item.dev_stick.name=Dev Stick
+
+itemGroup.lusm=Lucks Mod

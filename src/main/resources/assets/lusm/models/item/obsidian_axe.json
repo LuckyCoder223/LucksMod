@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "lusm:items/obsidian_axe"
+    }
+}

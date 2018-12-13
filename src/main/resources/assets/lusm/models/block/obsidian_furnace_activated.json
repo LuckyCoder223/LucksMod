@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "blocks/furnace_top",
+        "front": "lusm:blocks/obsidian_furnace_front_on",
+        "side": "blocks/furnace_side"
+    }
+}

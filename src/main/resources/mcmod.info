@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lusm",
+  "name": "Lucks Mod",
+  "description": "No Comment...",
+  "version": "2.0",
+  "mcversion": "1.11.2",
+  "url": "https://www.minecraft.net",
+  "updateUrl": "",
+  "authorList": ["LuckyCoder"],
+  "credits": "All credit to LuckyCoder and credit to Flumpter Slimpter for the textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

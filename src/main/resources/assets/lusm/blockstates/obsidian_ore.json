@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=overworld": { "model": "lusm:obsidian_ore" }
+    }
+}

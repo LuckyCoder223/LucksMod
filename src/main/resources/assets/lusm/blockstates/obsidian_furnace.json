@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "activated=false,facing=north": { "model": "lusm:obsidian_furnace" },
+        "activated=false,facing=south": { "model": "lusm:obsidian_furnace", "y": 180 },
+        "activated=false,facing=east": { "model": "lusm:obsidian_furnace", "y": 90 },
+        "activated=false,facing=west": { "model": "lusm:obsidian_furnace", "y": 270 },
+        "activated=false,facing=up": { "model": "lusm:obsidian_furnance", "x": 270 },
+        "activated=false,facing=down": { "model": "lusm:obsidian_furnace", "x": 90 },
+        "activated=true,facing=north": { "model": "lusm:obsidian_furnace_activated" },
+        "activated=true,facing=south": { "model": "lusm:obsidian_furnace_activated", "y": 180 },
+        "activated=true,facing=east": { "model": "lusm:obsidian_furnace_activated", "y": 90 },
+        "activated=true,facing=west": { "model": "lusm:obsidian_furnace_activated", "y": 270 },
+        "activated=true,facing=up": { "model": "lusm:obsidian_furnace_activated", "x": 270 },
+        "activated=true,facing=down": { "model": "lusm:obsidian_furnace_activated", "x": 90 }
+    }
+}
