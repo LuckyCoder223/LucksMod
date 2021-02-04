@@ -1,4 +1,3 @@
 # LucksMod
 
-Special thanks to CJMinecraft
-https://github.com/CJMinecraft01
+Free to use.
